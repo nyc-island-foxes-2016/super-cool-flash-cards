@@ -1,3 +1,3 @@
-# hahahahaha
+class List
 
-# this is totally gonna mess with things
+end
